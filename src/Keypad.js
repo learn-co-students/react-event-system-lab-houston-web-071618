@@ -1,4 +1,3 @@
-// Code Keypad Component Here
 import React, { Component } from 'react';
 
 
